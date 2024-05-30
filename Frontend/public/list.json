@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "My Name is Khan",
+        "description": "",
+        "genre" : "Motivation",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    },
+    {
+        "id": 2,
+        "name": "Srikanth",
+        "description": "",
+        "genre" : "Biography",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    },
+    {
+        "id": 3,
+        "name": "M.S. Dhoni",
+        "description": "",
+        "genre" : "Biography",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    },
+    {
+        "id": 4,
+        "name": "Swades",
+        "description": "",
+        "genre" : "Drama",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    },
+    {
+        "id": 5,
+        "name": "Veer Zaara",
+        "description": "",
+        "genre" : "Romance",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    },
+    {
+        "id": 6,
+        "name": "Super 30",
+        "description": "",
+        "genre" : "Motivation",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    },
+    {
+        "id": 7,
+        "name": "Jawan",
+        "description": "",
+        "genre" : "Action",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    },
+    {
+        "id": 8,
+        "name": "Sarabjit",
+        "description": "",
+        "genre" : "Emotional",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    },
+    {
+        "id": 9,
+        "name": "3 Idiots",
+        "description": "",
+        "genre" : "Motivation",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    },
+    {
+        "id": 10,
+        "name": "Chennai Express",
+        "description": "",
+        "genre" : "Comedy",
+        "category": "Public",
+        "image": "https://imgs.search.brave.com/WfeHpRokOdzwihva1_D39snJDxsKc81DcbzpZqrjoYg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMzJx/eXM5YTZ3bTluby5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvbW92/aWVzL3Bvc3Rlci81/OS9kOTEyNDU5ZGQ0/M2YxN2Y1NmEyOTBm/ZDQ0MzA1NWRlY18z/MDB4NDQyLmpwZz90/PTE2MzY4MTcxNzU"
+    }
+]
